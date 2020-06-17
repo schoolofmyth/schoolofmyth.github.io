@@ -1,0 +1,74 @@
+{
+    "liteLevels": [
+        {
+            "userImage": "password",
+            "userName": "User",
+            "password": "password",
+            "passwordHint": "the ultimate password",
+            "difficultyLevel": 1
+        },
+        {
+            "userImage": "123456",
+            "userName": "The Count",
+            "password": "123456",
+            "passwordHint": "six wonderful sequential numbers",
+            "difficultyLevel": 2
+        },
+        {
+            "userImage": "cat",
+            "userName": "DoggieDayCareStaff",
+            "password": "cat",
+            "passwordHint": "our 'real' favorite animal :)",
+            "difficultyLevel": 2
+        },
+        {
+            "userImage": "password1",
+            "userName": "User1",
+            "password": "password1",
+            "passwordHint": "the ultimate password, but better",
+            "difficultyLevel": 2
+        },
+        {
+            "userImage": "firekid7",
+            "userName": "firekid7",
+            "password": "firekid7",
+            "passwordHint": "i couldn't think of a good password :(",
+            "difficultyLevel": 2
+        },
+        {
+            "userImage": "superman",
+            "userName": "Clark",
+            "password": "superman",
+            "passwordHint": "favorite immigrant comic book hero",
+            "difficultyLevel": 3
+        },
+        {
+            "userImage": "whosthere",
+            "userName": "comedian",
+            "password": "whosthere",
+            "passwordHint": "knockknock",
+            "difficultyLevel": 3
+        },
+        {
+            "userImage": "romeo",
+            "userName": "Julie",
+            "password": "romeo",
+            "passwordHint": "wherefore art thou?",
+            "difficultyLevel": 4
+        },
+        {
+            "userImage": "duckqueen",
+            "userName": "Sarah",
+            "password": "duckqueen",
+            "passwordHint": "I'm the queen",
+            "difficultyLevel": 5
+        },
+        {
+            "userImage": "clock",
+            "userName": "Jerry",
+            "password": "clock",
+            "passwordHint": "what has a face and two hands, but no arms and legs?",
+            "difficultyLevel": 5
+        }
+    ]
+}
